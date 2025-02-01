@@ -9,7 +9,7 @@
 <body>
     <h1 id="title">Countries and Flags</h1>
     <div class="flags-container">
-        <img src="images/usa_flag.png" alt="USA Flag" class="flag" data-country="USA" data-map="images/usa_map.png">
+        <img src="Flag_of_the_United_States.png" alt="USA Flag" class="flag" data-country="USA" data-map="Flag_of_the_United_States.png">
         <img src="canada-flag.jpg" alt="Canada Flag" class="flag" data-country="Canada" data-map="canada-flag.jpg">
         <img src="images/uk_flag.png" alt="UK Flag" class="flag" data-country="United Kingdom" data-map="images/uk_map.png">
     </div>
