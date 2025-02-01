@@ -11,7 +11,7 @@
     <div class="flags-container">
         <img src="Flag_of_the_United_States.png" alt="USA Flag" class="flag" data-country="USA" data-map="Flag_of_the_United_States.png">
         <img src="canada-flag.jpg" alt="Canada Flag" class="flag" data-country="Canada" data-map="canada-flag.jpg">
-        <img src="images/uk_flag.png" alt="UK Flag" class="flag" data-country="United Kingdom" data-map="images/uk_map.png">
+        <img src="Flag_of_the_United_Kingdom_(1-2).svg.png" alt="UK Flag" class="flag" data-country="United Kingdom" data-map="Flag_of_the_United_Kingdom_(1-2).svg.png">
     </div>
     <script>
         document.addEventListener("DOMContentLoaded", () => {
